@@ -14,12 +14,7 @@
     <p>인하대학교 Innovation Academy</p>
     <p>UMC(University Makeus Challenge) 5th</p>
   <h2>Award</h2>
-    <p>2020-1 인하대학교 IGRUS 동아리 CTF 2nd</p>
-    <p>2020-2 INPC(IGRUS NEWBIE PROGRAMMING CONTEST) 16th</p>
-    <p>2021-1 인하대학교 슈퍼챌린지 해커톤(FitClass) 최우수상</p>
-    <p>2021-1 INPC(IGRUS NEWBIE PROGRAMMING CONTEST) 7th</p>
-    <p>2023-2 인하대학교 Innothink 공유킥보드 메이커톤(Hello Kicktty) 우수상</p>
-    <p>2023-2 Advantech Innoworks AIoT 경진대회(강의실 환경에 따른 자동 냉난방 조절 시스템) 장려상</p>
+    
   <h2>📚Tech Stack📚</h2>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
