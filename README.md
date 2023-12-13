@@ -34,21 +34,25 @@
 <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
 
-## GitHub Statistics
+
+## 📊GitHub Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=nesquitto&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Nesquitto's github stats](https://github-readme-stats.vercel.app/api?username=nesquitto&show_icons=true)
 [![Nesquitto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nesquitto&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nesquitto)
 
-## Algorithm Statistics
+## 📊Algorithm Statistics
 [![코드트리|실력진단-ret0422](https://banner.codetree.ai/v1/banner/ret0422)](https://www.codetree.ai/profiles/ret0422)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nesquitto)](https://solved.ac/nesquitto)
 
 
 
 
-## 프로젝트
+## 📌Project
+
+
+
+</div>
 
 
