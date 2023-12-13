@@ -13,7 +13,6 @@
     <p>Software Maestro 12th</p>
     <p>인하대학교 Innovation Academy</p>
     <p>UMC(University Makeus Challenge) 5th</p>
-  <h2>Award</h2>
     
   <h2>📚Tech Stack📚</h2>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
