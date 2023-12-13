@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Nesquitto&fontSize=90&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Nesquitto's%20Profile&fontSize=40&animation=fadeIn&fontAlign=70)
 
 <div align="right">
   <a href="https://hits.seeyoufarm.com" target="_blank">
@@ -6,7 +6,20 @@
   </a>
 </div>
 
+안녕하세요 백엔드 개발자를 꿈꾸는 가동식입니다.
+
 <div align="center">
+  <h2>🥁Career🥁</h2>
+    <p>Software Maestro 12th</p>
+    <p>인하대학교 Innovation Academy</p>
+    <p>UMC(University Makeus Challenge) 5th</p>
+  <h2>Award</h2>
+    <p>2020-1 인하대학교 IGRUS 동아리 CTF 2nd</p>
+    <p>2020-2 INPC(IGRUS NEWBIE PROGRAMMING CONTEST) 16th</p>
+    <p>2021-1 인하대학교 슈퍼챌린지 해커톤(FitClass) 최우수상</p>
+    <p>2021-1 INPC(IGRUS NEWBIE PROGRAMMING CONTEST) 7th</p>
+    <p>2023-2 인하대학교 Innothink 공유킥보드 메이커톤(Hello Kicktty) 우수상</p>
+    <p>2023-2 Advantech Innoworks AIoT 경진대회(강의실 환경에 따른 자동 냉난방 조절 시스템) 장려상</p>
   <h2>📚Tech Stack📚</h2>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -16,11 +29,9 @@
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white">  
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
@@ -29,11 +40,10 @@
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 
 ## 📊GitHub Statistics
