@@ -43,7 +43,7 @@
 ## 📊GitHub Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=nesquitto&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Nesquitto's github stats](https://github-readme-stats.vercel.app/api?username=nesquitto&show_icons=true)
+![Nesquitto's github stats](https://github-readme-stats.vercel.app/api?username=nesquitto&show_icons=true&include_orgs=true)
 [![Nesquitto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nesquitto&exclude_repo=Algorithm_Codespace_2022-23&hide=php&show_icons=true&include_orgs=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nesquitto)
 
 ## 📊Algorithm Statistics
