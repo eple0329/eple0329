@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Nesquitto's%20Profile&fontSize=40&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=가동식's%20Profile&fontSize=40&animation=fadeIn&fontAlign=70)
 
 <div align="right">
   <a href="https://hits.seeyoufarm.com" target="_blank">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNesquitto&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Nesquitto&edge_flat=false" alt="Hits">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNesquitto&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=eple0329&edge_flat=false" alt="Hits">
   </a>
 </div>
 
@@ -39,11 +39,11 @@
 
 
 ## 📊GitHub Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=nesquitto&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eple0329&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Nesquitto's github stats](https://github-readme-stats.vercel.app/api?username=nesquitto&show_icons=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true)
+![eple's github stats](https://github-readme-stats.vercel.app/api?username=eple0329&show_icons=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true)
 <!--
-[![Nesquitto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nesquitto&exclude_repo=Algorithm_Codespace_2022-23&hide=php&show_icons=true&include_orgs=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true)](https://github.com/nesquitto)
+[![eple's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eple0329&exclude_repo=Algorithm_Codespace_2022-23&hide=php&show_icons=true&include_orgs=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true)](https://github.com/eple0329)
 -->
 ## 📊Algorithm Statistics
 [![코드트리|실력진단-ret0422](https://banner.codetree.ai/v1/banner/ret0422)](https://www.codetree.ai/profiles/ret0422)
