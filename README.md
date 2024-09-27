@@ -8,6 +8,10 @@
 
 안녕하세요 백엔드 개발자를 꿈꾸는 가동식입니다.
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/eple0329"/>
+</a>
+
 <div align="center">
     
   <h2>📚Tech Stack📚</h2>
