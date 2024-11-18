@@ -41,7 +41,7 @@
 ## 📊GitHub Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=eple0329&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![eple's github stats](https://github-readme-stats.vercel.app/api?username=eple0329&show_icons=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true)
+![eple's github stats](https://github-readme-stats.vercel.app/api?username=eple0329&show_icons=true&include_orgs=true&count_private=true)
 <!--
 [![eple's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eple0329&exclude_repo=Algorithm_Codespace_2022-23&hide=php&show_icons=true&include_orgs=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true)](https://github.com/eple0329)
 -->
